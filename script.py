@@ -1,2 +1,3 @@
 mon code python
-du code supplementair ecrit par la colleguee
+script rajouté par moi
+du code supplementaire ecrit par la collegue
